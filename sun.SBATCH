@@ -1,7 +1,7 @@
 #!/bin/bash
 
 ## change the last two digits to your team id
-#SBATCH --account=csci_ga_2572_002-2024sp-18
+#SBATCH --account=csci_ga_2271_001-2024fa
 
 ## change the partition number to use different number of GPUs
 ##SBATCH --partition=n1s8-v100-1
